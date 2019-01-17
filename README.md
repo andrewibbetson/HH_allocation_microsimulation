@@ -1,7 +1,7 @@
 # HH_allocation_microsimulation
 A household allocation algorithm for microsimulation.
 
-This is a household allocation package for a UK microsimulation model (on bitbucket: https://bitbucket.org/psymo87/micro-simulation/src/default/). 
+This is a household allocation package for a UK microsimulation model (on bitbucket: https://bitbucket.org/psymo87/micro-simulation). 
 
 The allocation process can be run using the 'run_HH_allocation' function in 'h_main.py'.
 
