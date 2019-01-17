@@ -13,5 +13,5 @@ i. An iterative proportional fit to reweight English Housing Survey data to LSOA
 
 ii. Filling the generated households with individuals from census population data at the LSOA level. Initially, the generated households 
     do not match census population data. To solve this we can write a mixed integer problem and, using the optimisation software Gurobi, 
-    we can solve this problem in an optimal fashion so that the generated households match the census population totals.   
+    we can solve this problem in an optimal fashion, so that the generated households match the census population totals.   
 
